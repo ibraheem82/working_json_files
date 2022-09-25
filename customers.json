@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Adeolu samuel",
+        "company": "Jumbos Technology",
+        "phone": "098 292 372 3939"
+    },
+
+
+    {
+        "id": 2,
+        "name": "Ramon Yakubu",
+        "company": "Kaolaq Designs",
+        "phone": "081 272 363 9292"
+    },
+
+
+    {
+        "id": 3,
+        "name": "Ibraheem Omikunle",
+        "company": "Astro Technology",
+        "phone": "081 0267 3964"
+    }
+]
